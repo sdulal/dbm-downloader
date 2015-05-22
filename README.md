@@ -1,7 +1,7 @@
 # dbm-downloader
 Downloads all the pages of Dragonball Multiverse.
 
-Required: Python 3 and Beautiful Soup 4.
+Required: Python 3, the Requests library, and the Beautiful Soup 4 library.
 
 To run the program, simply input the command
 ```
